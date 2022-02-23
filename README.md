@@ -5,4 +5,7 @@
 Passionate about technology 🖥️ and problem solving 🧩.
 I have experience with neural networks, signal processing, agent-based simulation, machine learning, physics education, physics research and data analysis.
 
-Have a look at my projects in this link: <a href="https://github.com/MartinAramayo?tab=repositories"><img alt="b" title="a" src="https://img.shields.io/badge/Projects-%F0%9F%9A%80%F0%9F%9A%80%F0%9F%9A%80%F0%9F%9A%80-lightgrey"/></a> and please contribute if you can.
+Have a look at my projects in this link: <a href="https://github.com/MartinAramayo?tab=repositories"><img alt="b" title="a" src="https://img.shields.io/badge/Repo-%F0%9F%9A%9A%20%F0%9F%93%A6-blue"/></a> and please contribute if you can.
+
+Have a lookt at my personal blog <a href="https://martinaramayo.gitlab.io/"><img alt="b" title="a" src="https://img.shields.io/badge/Blog-%F0%9F%93%92%20%F0%9F%8C%90-white"/></a> .
+
