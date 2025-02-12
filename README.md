@@ -12,9 +12,10 @@ I have experience with neural networks, signal processing, agent-based simulatio
 <a href="https://martinaramayo.gitlab.io/"><img alt="b" title="a" src="https://img.shields.io/badge/Blog-%F0%9F%93%92%20%F0%9F%8C%90-white"/></a> I post about my interests and some projects.
 
 * You can take a look at my **CV in Spanish** here:
-<a href="https://raw.githubusercontent.com/MartinAramayo/publicResume/main/aramayoCVCensor.pdf"><img alt="b" title="a" src="https://img.shields.io/badge/CV-%E2%80%8B%F0%9F%93%84%E2%80%8B%F0%9F%93%8E%E2%80%8B-black"/></a>
+<a href="https://raw.githubusercontent.com/MartinAramayo/publicResume/main/Data-Scientist_Aramayo-Martin_CV-Redacted.pdf
+  "><img alt="b" title="a" src="https://img.shields.io/badge/CV-%E2%80%8B%F0%9F%93%84%E2%80%8B%F0%9F%93%8E%E2%80%8B-black"/></a>
 
 * My **resume in English** can be found here:
-<a href="https://raw.githubusercontent.com/MartinAramayo/publicResume/main/aramayoResumeCensor.pdf"><img alt="b" title="a" src="https://img.shields.io/badge/Resume-%E2%80%8B%F0%9F%93%84%E2%80%8B%F0%9F%93%8E%E2%80%8B-black"/></a>
+<a href="https://raw.githubusercontent.com/MartinAramayo/publicResume/main/Data-Scientist_Aramayo-Martin_Resume-Redacted.pdf"><img alt="b" title="a" src="https://img.shields.io/badge/Resume-%E2%80%8B%F0%9F%93%84%E2%80%8B%F0%9F%93%8E%E2%80%8B-black"/></a>
 
 
